@@ -1,1 +1,6 @@
+/build/
+*.o
+*.exe
+parser.tab.c
+lex.yy.c
 
