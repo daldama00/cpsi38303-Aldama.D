@@ -1,1 +1,14 @@
+RPN Calculator – Assignment 1.1 (Variant 1)
+Author: Daniel Aldama
+Course: CPSI38303
+
+This version of the RPN calculator uses recursion to evaluate the stack instead of looping through it. It also does a better job of catching errors in the input if the expression is invalid or malformed
+
+To compile:
+  make
+
+To run:
+  ./rpn
+
+Of the multiple solutions for this assignment I chose to go with this one.
 
